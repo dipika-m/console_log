@@ -1,0 +1,20 @@
+{
+  "name": "console_log",
+  "description": "Logger that accepts arguments and formats it",
+  "author": "Dipika Mulchandani <dipikam86@gmail.com> (http://dipikamulchandani.com/)",
+  "version": "1.0.2",
+  "main": "index.js",
+  "license": "WTFPL",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "loglevel": "^1.4.0",
+    "string-format": "^0.5.0"
+  },
+  "devDependencies": {
+    "chai": "1.9.x",
+    "sinon": "1.9.x",
+    "mocha": "1.17.x"
+  }
+}
