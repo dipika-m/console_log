@@ -26,7 +26,8 @@ A format string may reference a positional argument multiple times:
 log.debug('James', 'Bond');
 // => "The name's Bond. James Bond." 
 
+
+```
 ## license
 
 MIT.
-```
